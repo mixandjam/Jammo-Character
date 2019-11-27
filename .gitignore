@@ -34,3 +34,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Ignore specific assets
+Recordings/
+Assets/Movie
+Assets/Cinematic Lens Flares Pack
+Assets/Fantasy-Environment
+Assets/_TerrainAutoUpgrade
+
+

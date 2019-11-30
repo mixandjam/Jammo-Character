@@ -14,3 +14,17 @@ The model rig was carefully tweaked to work with the [Mixamo](https://www.mixamo
 • Example Scenes: Third person camera control (using Cinemachine) with an example movement script.
 
 We hope you have a lot of fun with the character! 
+
+## Downloading animations with Mixamo
+
+In order to download animations from Mixamo - you just need to upload the FBX model
+
+![Mixamo](http://mixandjam.com/wp-content/uploads/2019/11/mixamo.png)
+
+Then you can download any animation you like! One good tip is to always increase the <b>Character Arm Space</b> property so that Jammo's hands don't clip.
+
+When exporting the FBX to unity - one thing I always do is to expand the object on the project window, find the animation clip and duplicate it. This way not only do we have just the clip but it's also not read-only anymore.
+
+![step1](http://mixandjam.com/wp-content/uploads/2019/11/instruction1.png)
+
+![step2](http://mixandjam.com/wp-content/uploads/2019/11/instruction2.png)

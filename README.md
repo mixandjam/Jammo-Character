@@ -8,6 +8,9 @@ Jammo is part of a collaboration between the [Mix and Jam](https://bit.ly/mixand
 
 The model rig was carefully tweaked to work with the [Mixamo](https://www.mixamo.com/#) website - which means that you can just drag the .fbx file there and try the variety of animations available on Mixamo's library!
 
+>[Blender and Substance files](http://bit.ly/jammoDB)<br>
+>[Asset Store Link](http://u3d.as/1G8A)<br>
+
 • Triangle count: 16.088<br>
 • Material count: 2 (Body and head visor)<br>
 • Available textures: Albedo, Metallic Smoothness, Normal Map and Ambient Occlusion.<br>

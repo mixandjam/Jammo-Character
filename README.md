@@ -1,6 +1,6 @@
 # Jammo-Character 
 
-![Jammo Banner](http://mixandjam.com/wp-content/uploads/2019/11/desktop.jpg)
+![Jammo Banner](https://github.com/mixandjam/Jammo-Character/blob/master/git-banner.jpg)
 
 The <b>Jammo Character</b> is a free 3D model that you can use in your projects!
 
